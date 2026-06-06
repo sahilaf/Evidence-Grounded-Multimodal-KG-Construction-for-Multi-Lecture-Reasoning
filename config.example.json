@@ -1,0 +1,13 @@
+{
+  "drive_root": "/content/drive/MyDrive/MultiLectureKG",
+  "run_name": "evidence_grounded_run_001",
+  "frame_rate": 1.0,
+  "video_quality": "best[height<=720]",
+  "asr_model": "large-v3",
+  "target_anchor_percentage": 18.0,
+  "min_anchors_per_lecture": 80,
+  "max_anchors_per_lecture": 260,
+  "vlm_model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "embedding_model": "BAAI/bge-large-en-v1.5"
+}
+

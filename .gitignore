@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local/generated datasets and large run artifacts
+MultiLectureKG/
+data/
+raw/
+processed/
+runs/
+*.mp4
+*.wav
+*.jpg
+*.pkl
+
+# Secrets
+.env
+*.token
+hf_token*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+

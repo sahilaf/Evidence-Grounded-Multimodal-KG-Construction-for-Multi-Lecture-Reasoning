@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite this project."
+title: "Evidence-Grounded Multimodal KG Construction for Multi-Lecture Reasoning"
+authors:
+  - family-names: "Al Farib"
+    given-names: "Sahil"
+year: 2026
+repository-code: "https://github.com/sahilaf/Evidence-Grounded-Multimodal-KG-Construction-for-Multi-Lecture-Reasoning"
+license: "MIT"
+
